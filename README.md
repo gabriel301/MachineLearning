@@ -1,2 +1,2 @@
 # MachineLearning
-Codes of Machine Learning Courses hat I have been taken
+Codes of Machine Learning Courses I have taken
